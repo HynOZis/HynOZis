@@ -1,5 +1,5 @@
 # 💫 About Me:
-👦 I'm Bazil Tednok,<br>Beginner Developer of Coding 👨‍💻 🚀
+# <div align="center">👦 I'm Bazil  Tednok,<br> Beginner Developer of Coding 👨‍💻 🚀</div>
 
 
 ## 🌐 Socials:
